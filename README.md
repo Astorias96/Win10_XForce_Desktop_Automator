@@ -1,4 +1,4 @@
-# Win10_XForce_Desktop_Env
+# Win10_XForce_Desktop_Automator
 This utility is designed to deploy a (unix) XForce desktop environment on Microsoft Windows 10 devices.
 I have programmed this utility alone and my skills in BAT/PowerShell are very limited.
 Please do not blame me as I know that this software is not optimized as far as it could be.
