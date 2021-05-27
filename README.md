@@ -7,12 +7,12 @@ Please do not blame me as I know that this software is not optimized as far as i
 Feel free to suggest possible enhancements or extensions.
 
 # Target device requirements
-- Windows 10 (minimum 1804 version - all editions* excepted Windows 10 N)
+- Windows 10 (all editions* - minimum version - 1804)
 - 100 MB of disk space
 - Trust PowerShell policy (or temporary disable it) before running the software
 - Whitelist software from AV (if needed)
 
-*Windows 10 IoT to be tested
+*Windows 10 IoT & Windows 10 N - to be tested
 
 
 # Supported Linux distributions
