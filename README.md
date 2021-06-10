@@ -18,7 +18,7 @@ Feel free to suggest possible enhancements or extensions.
 # Supported Linux distributions
 - Debian GNU / Linux
 - Suse Linux Enterprise Server 12
-- Ubuntu LTS 16.04, 18.04 & 20.04
+- Ubuntu LTS 16.04, 18.04, 20.04
 - Fedora Remix
 
 
