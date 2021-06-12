@@ -25,9 +25,11 @@ Feel free to suggest possible enhancements or extensions.
 
 # Known limitations / possible improvements (for V2)
 - Implement dynamic progress bar for distribution_selector.ps1
+- Automate XServer installation with a CDN (Powershell)
 - Finish theming automation in Ubuntu 20.04 LTS
 - Finish Fedora Remix installation
 - Finish Kali Linux installation
+- Create proper uninstallation shell
 
 
 # Licensing
