@@ -1,0 +1,1 @@
+@echo off > NUL && cd %programfiles% && Powershell.exe -Executionpolicy  remotesigned -File  .\Xfce4_Session_Automator\application\ubuntu_1804\reboot_and_continue_ubuntu_1804_2.ps1"

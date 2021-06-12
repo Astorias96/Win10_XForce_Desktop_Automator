@@ -1,0 +1,1 @@
+@echo off > NUL  && sles-12.exe

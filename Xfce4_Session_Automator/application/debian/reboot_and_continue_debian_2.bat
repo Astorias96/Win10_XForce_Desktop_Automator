@@ -1,0 +1,1 @@
+@echo off > NUL && cd %programfiles% && Powershell.exe -Executionpolicy  remotesigned -File  .\Xfce4_Session_Automator\application\debian\reboot_and_continue_debian_2.ps1"

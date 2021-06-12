@@ -1,0 +1,123 @@
+__________________________________________________________________________
+EULA - END-USER AGREEMENT & LICENCING
+__________________________________________________________________________
+'Xfce4_Session_Automator' by Ludovic Lemoine
+---------------------------------------------------------------------------------------------------------------
+
+IMPORTANT, PLEASE READ CAREFULLY: THIS END USER LICENSE AGREEMENT 'EULA'
+IS A LEGAL AGREEMENT BETWEEN YOU (AS AN INDIVIDUAL OR ENTITY, 'YOU' THE 
+'CUSTOMER') AND LUDOVIC LEMOINE, FOR PRODUCTS AND SERVICES, WHICH MAY 
+INCLUDE COMPUTER SOFTWARE AND ASSOCIATED DOCUMENTATION ('SOFTWARE').
+BY INSTALLING OR OTHERWISE USING THE SOFTWARE OR RECEIVING THE SERVICES,
+YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA.  IF YOU DO NOT AGREE WITH
+THE TERMS OF THIS EULA, DO NOT USE THE SOFTWARE OR SERVICES. 
+
+__________________________________________________________________________
+1- I (Ludovic Lemoine) do not take ownership on the rights of the software
+that is used in this program.
+---------------------------------------------------------------------------------------------------------------
+
+All are open-source based software and freeware, meant for personnal use
+only. By using this software you consent to keep it for personal and
+should it be used professionally you engage yourself to pay any licensing
+that may be needed (e.g. SUSE Linux Entreprise Server license) in order to
+comply with the law. I can't be taken responsible for any misuse, illegal
+distribution and/or deployment of this software.
+
+__________________________________________________________________________
+2- Evaluation and 'Not for Resale' Licenses.
+---------------------------------------------------------------------------------------------------------------
+
+Software may be provided to you for beta, demonstration, test or
+evaluation purposes, or is labeled as 'Not for Resale' ('NFR'). The
+license granted under an Evaluation, Beta or NFR license shall be for a
+term of thirty (30) days (the 'Evaluation Period') unless otherwise
+provided by Ludovic Lemoine, limited specifically for evaluation or
+demonstration purposes only. You agree not to use the Software under an
+Evaluation License in a production environment or for production data
+processing purposes and your use of a Beta or Evaluation License Software
+is at your sole risk to backup data. There is no obligation to support,
+maintain or provide any assistance regarding any of these licenses. In no
+event will Ludovic Lemoine be liable for any damages for any claim or
+cause for any direct, actual, indirect damages, loss of data, consequential,
+incidental or special indirect damages, even if Ludovic Lemoine has been
+advised of the possibility of such damages.
+(Just in case of, not appliable as this software is free)
+
+__________________________________________________________________________
+3- Free Licenses and Community Licenses.
+---------------------------------------------------------------------------------------------------------------
+
+Free and Community License products can be used in your own production
+environment in accordance with the terms and conditions of this Agreement.
+You may not use the Free and Community Licenses to provide services to
+third parties or to process third party data. These versions can be used
+without additional purchase and can be upgraded to paying versions of the
+products to unlock additional functionality and features. There is no
+obligation to support, maintain or provide any assistance regarding any of
+these licenses. In no event will Ludovic Lemoine be liable for any damages
+for any claim or cause for any direct, actual, indirect damages, loss of
+data, consequential, incidental or special indirect damages, even if
+Ludovic Lemoine has been advised of the possibility of such damages.      
+
+__________________________________________________________________________
+4- Technical Information Collection.
+---------------------------------------------------------------------------------------------------------------
+
+You agree that Ludovic Lemoine may, for improving the Software, collect,
+process and use technical information that is gathered as part of any
+product maintenance and support services provided to you, and any other
+technical information you provide to Ludovic Lemoine, provided that such
+information does not identify You, a specific individual, or contain any
+personally identifiable information. By providing technical data and
+information to Ludovic Lemoine, you consent to Ludovic Lemoine's storage
+and processing of such technical information for purposes of providing
+Software and support to you. Log files are located in the Program Files
+Folder.
+
+__________________________________________________________________________
+5- Capacity Limitations in Software.
+---------------------------------------------------------------------------------------------------------------
+
+For certain Software, your use of the Software may be limited by the
+capacity purchased. In the event you exceed the purchased capacity,
+the Software may not process additional workloads beyond the maximum
+capacity until you purchase additional capacity.
+(Just in case of, not appliable as this software is free)
+
+__________________________________________________________________________
+6- Open Source and Third Party Software.
+---------------------------------------------------------------------------------------------------------------
+
+'Open Source' means various open source software components licensed under
+the terms of applicable open source license agreements included in the
+materials relating to such software. Open Source Software is composed of
+individual software components, each of which has its own copyright and
+its own applicable license conditions.
+
+__________________________________________________________________________
+7- Credits.
+---------------------------------------------------------------------------------------------------------------
+
+Application Icon:         https://roundicons.com/
+Launchers:                https://icomoon.io/app/
+vcxsrv for Windows:   https://sourceforge.net/projects/vcxsrv/
+Xfce4:                          https://www.xfce.org/
+Papirus-Icon-Theme:   https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
+Adapta Theme:             https://github.com/adapta-project/adapta-gtk-theme/
+Numix Theme:           https://github.com/numixproject/numix-gtk-theme
+Roboto-Font:	     https://packages.ubuntu.com/search?keywords=fonts-roboto/
+Noto-Font:	     https://packages.ubuntu.com/search?keywords=fonts-noto/
+Tillix Terminal:               https://gnunn1.github.io/tilix-web/
+Neofetch:                     https://github.com/dylanaraps/neofetch/
+Ubuntu project:            https://ubuntu.com/
+Debian project:             https://www.debian.org/
+SUSE project:                https://www.suse.com/
+Fedora project:             https://getfedora.org/
+Mozilla Firefox:              https://www.mozilla.org/firefox/
+Google: 	                      https://www.google.com/
+Inno Setup Compiler:     http://www.jrsoftware.org/isinfo.php/
+Microsoft:                       https://www.microsoft.com/
+
+__________________________________________________________________________
+END OF DOCUMENT - COMPILED AND WRITTEN BY LUDOVIC LEMOINE - 2019
