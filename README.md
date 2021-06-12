@@ -12,18 +12,21 @@ Feel free to suggest possible enhancements or extensions.
 - Trust PowerShell policy (or temporary disable it) before running the software
 - Whitelist software from AV (if needed)
 
-*Windows 10 IoT & Windows 10 N - to be tested
+*Windows 10 IoT, Windows 10 S & Windows 10 N must to be tested and they are not supported yet
 
 
 # Supported Linux distributions
+- Ubuntu 20.04 LTS, 18.04 LTS, 16.04 LTS
 - Debian GNU / Linux
 - Suse Linux Enterprise Server 12
-- Ubuntu LTS 16.04, 18.04, 20.04
 - Fedora Remix
+- Kali Linux
 
 
 # Known limitations / possible improvements (for V2)
-- Implement MS Store CDN link for Ubuntu 20.04 distribution download (https://aka.ms/wslubuntu2004).
+- Implement dynamic progress bar for distribution_selector.ps1
+- Finish Fedora Remix installation
+- Finish Kali Linux installation
 
 
 # Licensing
